@@ -1,0 +1,14 @@
+body{
+	background-color: grey;
+}
+
+.color{
+
+	width: 800px;
+	margin: 0 auto;
+	min-height: 600px;
+	background-color: linen;
+	text-align: justify;
+	padding:20px;
+	line-height: 1.5em;
+}
